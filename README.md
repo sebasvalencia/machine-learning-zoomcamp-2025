@@ -8,7 +8,9 @@ This repository contains the homework notebooks, where the exercises proposed in
 [📓 Homework 1](notebooks/1_homework.ipynb)
 
 ## Structure
-├── README.md  
-├── notebooks/  
+├── README.md
+├── notebooks/
 │   └── 1_homework.ipynb
 └── .gitignore
+└── data/
+    └── car_fuel_efficiency.csv
