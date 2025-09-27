@@ -11,6 +11,6 @@ This repository contains the homework notebooks, where the exercises proposed in
 ├── README.md
 ├── notebooks/
 │   └── 1_homework.ipynb
-└── .gitignore
+├── .gitignore
 └── data/
     └── car_fuel_efficiency.csv
