@@ -10,5 +10,5 @@ This repository contains the homework notebooks, where the exercises proposed in
 ## Structure
 ├── README.md  
 ├── notebooks/  
-│   └── 1_homework.ipynb 
+│   └── 1_homework.ipynb
 └── .gitignore
