@@ -6,3 +6,4 @@ This repository contains the homework notebooks, where the exercises proposed in
 ## Homework 1 - ML Zoomcamp 2025
 
 [📓 Homework 1](notebooks/1_homework.ipynb)
+[📓 Homework 2](notebooks/2_homework.ipynb)
