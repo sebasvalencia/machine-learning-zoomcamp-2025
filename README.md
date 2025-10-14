@@ -7,3 +7,4 @@ This repository contains the homework notebooks, where the exercises proposed in
 
 [📓 Homework 1](notebooks/1_homework.ipynb)
 [📓 Homework 2](notebooks/2_homework.ipynb)
+[📓 Homework 3](notebooks/3_homework.ipynb)
